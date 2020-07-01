@@ -1,2 +1,7 @@
 [workspace]
-members = ["binary", "lib", "minigrep"]
+members = [
+            "binary",
+            "lib",
+            "minigrep",
+            "simple-web-server"
+          ]
