@@ -3,5 +3,6 @@ members = [
             "binary",
             "lib",
             "minigrep",
-            "simple-web-server"
+            "simple-web-server",
+            "tetris"
           ]
